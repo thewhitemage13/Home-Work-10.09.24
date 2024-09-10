@@ -1,0 +1,14 @@
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\bin\Debug\net8.0\Home Work 10.09.24 (2).exe
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\bin\Debug\net8.0\Home Work 10.09.24 (2).deps.json
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\bin\Debug\net8.0\Home Work 10.09.24 (2).runtimeconfig.json
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\bin\Debug\net8.0\Home Work 10.09.24 (2).dll
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\bin\Debug\net8.0\Home Work 10.09.24 (2).pdb
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).AssemblyInfoInputs.cache
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).AssemblyInfo.cs
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).csproj.CoreCompileInputs.cache
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).dll
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\refint\Home Work 10.09.24 (2).dll
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).pdb
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\Home Work 10.09.24 (2).genruntimeconfig.cache
+C:\Users\lolim\source\repos\Home Work 10.09.24 (2)\Home Work 10.09.24 (2)\obj\Debug\net8.0\ref\Home Work 10.09.24 (2).dll
