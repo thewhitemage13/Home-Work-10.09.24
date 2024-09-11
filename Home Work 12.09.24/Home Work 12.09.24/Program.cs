@@ -1,4 +1,4 @@
-﻿namespace Home_Work_12._09._24
+namespace Home_Work_12._09._24
 {
     using System;
     using System.Collections.Generic;
@@ -370,7 +370,18 @@
             }
         }
 
-        public class Shop
+        public interface ShopInterface
+        {
+            void Add(DataCarrier dataCarrier);
+            void Print();
+            List<DataCarrier> FindByPriceRange(decimal minPrice, decimal maxPrice);
+            List<DataCarrier> FindByModel(string modelPattern);
+            List<DataCarrier> FindByCount(long count);
+            List<DataCarrier> FindByType(Type deviceType);
+            void Update(DataCarrier dataCarrier);
+        }
+
+        public class Shop : ShopInterface
         {
             List<DataCarrier> dataCarriers = new List<DataCarrier>();
 
