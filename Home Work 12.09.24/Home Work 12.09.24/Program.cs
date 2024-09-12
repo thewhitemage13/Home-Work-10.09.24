@@ -166,32 +166,13 @@ namespace Home_Work_12._09._24
 
             public override void Update(DataCarrier dataCarrier)
             {
-                Console.WriteLine("Enter Update Information about Data Carrier: ");
-                Console.Write("Enter New Media Name: ");
-                string newMediaName = Console.ReadLine();
-                dataCarrier.SetMediaName(newMediaName);
-
-                Console.Write("Enter New Vendor Name: ");
-                string newVendorName = Console.ReadLine();
-                dataCarrier.SetVendorName(newVendorName);
-
-                Console.Write("Enter New Model: ");
-                string newModel = Console.ReadLine();
-                dataCarrier.SetModel(newModel);
-
-                Console.Write("Enter New Count: ");
-                long newCount = Convert.ToInt64(Console.ReadLine());
-                dataCarrier.SetCount(newCount);
-
-                Console.Write("Enter New Price: ");
-                decimal newPrice = Convert.ToDecimal(Console.ReadLine());
-                dataCarrier.SetPrice(newPrice);
+                base.Update(dataCarrier);
 
                 Console.Write("Enter New Memory Size: ");
                 long newMemorySize = Convert.ToInt64(Console.ReadLine());
                 SetMemorySize(newMemorySize);
 
-                Console.WriteLine("Enter New Usb Speed");
+                Console.Write("Enter New Usb Speed: ");
                 int newUsbSpeed = Convert.ToInt32(Console.ReadLine());
                 SetUsbSpeed(newUsbSpeed);
             }
@@ -255,32 +236,13 @@ namespace Home_Work_12._09._24
 
             public override void Update(DataCarrier dataCarrier)
             {
-                Console.WriteLine("Enter Update Information about Data Carrier: ");
-                Console.Write("Enter New Media Name: ");
-                string newMediaName = Console.ReadLine();
-                dataCarrier.SetMediaName(newMediaName);
-
-                Console.Write("Enter New Vendor Name: ");
-                string newVendorName = Console.ReadLine();
-                dataCarrier.SetVendorName(newVendorName);
-
-                Console.Write("Enter New Model: ");
-                string newModel = Console.ReadLine();
-                dataCarrier.SetModel(newModel);
-
-                Console.Write("Enter New Count: ");
-                long newCount = Convert.ToInt64(Console.ReadLine());
-                dataCarrier.SetCount(newCount);
-
-                Console.Write("Enter New Price: ");
-                decimal newPrice = Convert.ToDecimal(Console.ReadLine());
-                dataCarrier.SetPrice(newPrice);
+                base.Update(dataCarrier);
 
                 Console.Write("Enter New Read Speed: ");
                 int newReadSpeed = Convert.ToInt32(Console.ReadLine());
                 SetReadSpeed(newReadSpeed);
 
-                Console.WriteLine("Enter New Write Speed");
+                Console.Write("Enter New Write Speed: ");
                 int newWriteSpeed = Convert.ToInt32(Console.ReadLine());
                 SetWriteSpeed(newWriteSpeed);
             }
@@ -334,32 +296,13 @@ namespace Home_Work_12._09._24
 
             public override void Update(DataCarrier dataCarrier)
             {
-                Console.WriteLine("Enter Update Information about Data Carrier: ");
-                Console.Write("Enter New Media Name: ");
-                string newMediaName = Console.ReadLine();
-                dataCarrier.SetMediaName(newMediaName);
-
-                Console.Write("Enter New Vendor Name: ");
-                string newVendorName = Console.ReadLine();
-                dataCarrier.SetVendorName(newVendorName);
-
-                Console.Write("Enter New Model: ");
-                string newModel = Console.ReadLine();
-                dataCarrier.SetModel(newModel);
-
-                Console.Write("Enter New Count: ");
-                long newCount = Convert.ToInt64(Console.ReadLine());
-                dataCarrier.SetCount(newCount);
-
-                Console.Write("Enter New Price: ");
-                decimal newPrice = Convert.ToDecimal(Console.ReadLine());
-                dataCarrier.SetPrice(newPrice);
+                base.Update(dataCarrier);
 
                 Console.Write("Enter New Disk Size: ");
                 long newDiskSize = Convert.ToInt32(Console.ReadLine());
                 SetDiskSize(newDiskSize);
 
-                Console.WriteLine("Enter New Write Speed");
+                Console.Write("Enter New Write Speed: ");
                 int newUsbSpeed = Convert.ToInt32(Console.ReadLine());
                 SetUsbSpeed(newUsbSpeed);
             }
@@ -446,15 +389,15 @@ namespace Home_Work_12._09._24
                 
                 Console.WriteLine("====================================");
 
-                List<DataCarrier> findByCount = shop.FindByCount(20);
+                //List<DataCarrier> findByCount = shop.FindByCount(20);
 
-                foreach (DataCarrier dataCarrier in findByCount)
-                {
-                    Console.WriteLine(dataCarrier);
-                }
+                //foreach (DataCarrier dataCarrier in findByCount)
+                //{
+                //    Console.WriteLine(dataCarrier);
+                //}
 
-                //shop.Update(dataCarrier1);
-                //shop.Print();
+                shop.Update(dataCarrier1);
+                shop.Print();
             }
         }
     }
