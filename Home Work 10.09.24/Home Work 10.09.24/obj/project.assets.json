@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lolim\\source\\repos\\Home Work 10.09.24\\Home Work 10.09.24\\Home Work 10.09.24.csproj",
+      "projectUniqueName": "D:\\.Net\\Home Work\\Home Work 10.09.24\\Home Work 10.09.24\\Home Work 10.09.24.csproj",
       "projectName": "Home Work 10.09.24",
-      "projectPath": "C:\\Users\\lolim\\source\\repos\\Home Work 10.09.24\\Home Work 10.09.24\\Home Work 10.09.24.csproj",
+      "projectPath": "D:\\.Net\\Home Work\\Home Work 10.09.24\\Home Work 10.09.24\\Home Work 10.09.24.csproj",
       "packagesPath": "C:\\Users\\lolim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lolim\\source\\repos\\Home Work 10.09.24\\Home Work 10.09.24\\obj\\",
+      "outputPath": "D:\\.Net\\Home Work\\Home Work 10.09.24\\Home Work 10.09.24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lolim\\AppData\\Roaming\\NuGet\\NuGet.Config",
