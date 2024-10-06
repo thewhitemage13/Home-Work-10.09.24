@@ -1,0 +1,14 @@
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\bin\Debug\net8.0\LibraryManagerHomeWork.exe
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\bin\Debug\net8.0\LibraryManagerHomeWork.deps.json
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\bin\Debug\net8.0\LibraryManagerHomeWork.runtimeconfig.json
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\bin\Debug\net8.0\LibraryManagerHomeWork.dll
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\bin\Debug\net8.0\LibraryManagerHomeWork.pdb
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.AssemblyInfoInputs.cache
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.AssemblyInfo.cs
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.csproj.CoreCompileInputs.cache
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.dll
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\refint\LibraryManagerHomeWork.dll
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.pdb
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\LibraryManagerHomeWork.genruntimeconfig.cache
+D:\.Net\Home Work\LibraryManagerHomeWork\LibraryManagerHomeWork\obj\Debug\net8.0\ref\LibraryManagerHomeWork.dll
