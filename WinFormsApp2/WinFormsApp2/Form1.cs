@@ -17,7 +17,7 @@
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
         }
         
-        private void pictureBox()
+        private void PictureBox()
         {
             pictureBox1 = Controls.OfType<PictureBox>().FirstOrDefault();
             if (pictureBox1 != null && currentIndex >= 0 && currentIndex < imagePaths.Count)
@@ -43,7 +43,7 @@
                     if (currentIndex == -1 && imagePaths.Count > 0)
                     {
                         currentIndex = 0;
-                        pictureBox();
+                        PictureBox();
                     }
                 }
             }
@@ -54,7 +54,7 @@
             if (currentIndex > 0)
             {
                 currentIndex--;
-                pictureBox();
+                PictureBox();
             }
         }
         
@@ -63,7 +63,7 @@
             if (currentIndex < imagePaths.Count - 1)
             {
                 currentIndex++;
-                pictureBox();
+                PictureBox();
             }
         }
         
@@ -73,7 +73,7 @@
             {
                 imagePaths.RemoveAt(currentIndex);
                 if (currentIndex >= imagePaths.Count) currentIndex--;
-                pictureBox();
+                PictureBox();
             }
         }
         
