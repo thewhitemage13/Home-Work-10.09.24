@@ -4,16 +4,19 @@
     {
         private List<string> imagePaths = new List<string>();
         private int currentIndex = -1;
+        
         public Form1()
         {
             InitializeComponent();
             PBSettings();
         }
+        
         private void PBSettings()
         {
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
         }
+        
         private void pictureBox()
         {
             pictureBox1 = Controls.OfType<PictureBox>().FirstOrDefault();
@@ -27,6 +30,7 @@
                 pictureBox1.Image = null;
             }
         }
+        
         private void button1_Click(object sender, EventArgs e)
         {
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
@@ -44,6 +48,7 @@
                 }
             }
         }
+        
         private void button2_Click(object sender, EventArgs e)
         {
             if (currentIndex > 0)
@@ -52,6 +57,7 @@
                 pictureBox();
             }
         }
+        
         private void button3_Click(object sender, EventArgs e)
         {
             if (currentIndex < imagePaths.Count - 1)
@@ -60,6 +66,7 @@
                 pictureBox();
             }
         }
+        
         private void button4_Click(object sender, EventArgs e)
         {
             if (currentIndex >= 0 && currentIndex < imagePaths.Count)
@@ -69,5 +76,6 @@
                 pictureBox();
             }
         }
+        
     }
 }
