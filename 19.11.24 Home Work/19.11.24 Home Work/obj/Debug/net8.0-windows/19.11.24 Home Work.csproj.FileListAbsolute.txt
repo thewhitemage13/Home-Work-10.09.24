@@ -1,0 +1,17 @@
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\bin\Debug\net8.0-windows\19.11.24 Home Work.exe
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\bin\Debug\net8.0-windows\19.11.24 Home Work.deps.json
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\bin\Debug\net8.0-windows\19.11.24 Home Work.runtimeconfig.json
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\bin\Debug\net8.0-windows\19.11.24 Home Work.dll
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\bin\Debug\net8.0-windows\19.11.24 Home Work.pdb
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\_19._11._24_Home_Work.Form1.resources
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.csproj.GenerateResource.cache
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.AssemblyInfoInputs.cache
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.AssemblyInfo.cs
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.csproj.CoreCompileInputs.cache
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.dll
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\refint\19.11.24 Home Work.dll
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.pdb
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\19.11.24 Home Work.genruntimeconfig.cache
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\ref\19.11.24 Home Work.dll
+D:\.Net\Home Work\WinForms\19.11.24 Home Work\19.11.24 Home Work\obj\Debug\net8.0-windows\_19._11._24_Home_Work.Properties.Resources.resources
