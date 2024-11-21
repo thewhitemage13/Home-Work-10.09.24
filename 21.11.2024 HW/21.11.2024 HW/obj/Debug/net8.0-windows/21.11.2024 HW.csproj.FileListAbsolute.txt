@@ -1,0 +1,16 @@
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\_21._11._2024_HW.Form1.resources
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.csproj.GenerateResource.cache
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.AssemblyInfoInputs.cache
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.AssemblyInfo.cs
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.csproj.CoreCompileInputs.cache
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\bin\Debug\net8.0-windows\21.11.2024 HW.exe
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\bin\Debug\net8.0-windows\21.11.2024 HW.deps.json
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\bin\Debug\net8.0-windows\21.11.2024 HW.runtimeconfig.json
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\bin\Debug\net8.0-windows\21.11.2024 HW.dll
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\bin\Debug\net8.0-windows\21.11.2024 HW.pdb
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.dll
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\refint\21.11.2024 HW.dll
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.pdb
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\21.11.2024 HW.genruntimeconfig.cache
+C:\Users\lolim\source\repos\21.11.2024 HW\21.11.2024 HW\obj\Debug\net8.0-windows\ref\21.11.2024 HW.dll
