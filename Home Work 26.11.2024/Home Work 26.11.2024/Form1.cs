@@ -29,7 +29,7 @@ namespace Home_Work_26._11._2024
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Ошибка при загрузке шрифта: {ex.Message}");
+                    MessageBox.Show($"Error when loading font: {ex.Message}");
                     return;
                 }
             }
@@ -38,7 +38,7 @@ namespace Home_Work_26._11._2024
 
             if (privateFontCollection.Families.Length == 0)
             {
-                MessageBox.Show("Не удалось загрузить шрифт.");
+                MessageBox.Show("Failed to load the font.");
                 return;
             }
 
@@ -53,7 +53,7 @@ namespace Home_Work_26._11._2024
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Ошибка при удалении временного файла: {ex.Message}");
+                MessageBox.Show($"Error when deleting a temporary file: {ex.Message}");
             }
         }
 
