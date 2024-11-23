@@ -1,0 +1,16 @@
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home_Work_26._11._2024.Form1.resources
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.csproj.GenerateResource.cache
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.AssemblyInfoInputs.cache
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.AssemblyInfo.cs
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.csproj.CoreCompileInputs.cache
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\bin\Debug\net8.0-windows\Home Work 26.11.2024.exe
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\bin\Debug\net8.0-windows\Home Work 26.11.2024.deps.json
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\bin\Debug\net8.0-windows\Home Work 26.11.2024.runtimeconfig.json
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\bin\Debug\net8.0-windows\Home Work 26.11.2024.dll
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\bin\Debug\net8.0-windows\Home Work 26.11.2024.pdb
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.dll
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\refint\Home Work 26.11.2024.dll
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.pdb
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\Home Work 26.11.2024.genruntimeconfig.cache
+C:\Users\lolim\source\repos\Home Work 26.11.2024\Home Work 26.11.2024\obj\Debug\net8.0-windows\ref\Home Work 26.11.2024.dll
